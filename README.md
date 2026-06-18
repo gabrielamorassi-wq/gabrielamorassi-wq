@@ -1,16 +1,17 @@
-## Hi there 👋
+## Oi, tudo bem?🌼
 
-<!--
-**gabrielamorassi-wq/gabrielamorassi-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é _Gabriela_ 💙
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ⚽️Eu gosto de futebol
+- 🍝Minha comida favorita é macarrão
+- 🍨Eu gosto de sorvete
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 -->
